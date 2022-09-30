@@ -10,6 +10,8 @@
 <img src="https://pic.onlinewebfonts.com/svg/img_474409.svg" height=64 alt="PC"/>
 <img src="https://www.pngarts.com/files/1/Xbox-PNG-Free-Download.png" height="64">
 </div>
+Чаще всего, для разработчика игр важно, обладать богатым опытом и познанием в играх. <br>
+Существует множество жанров и платформ на которых я играл, но среди них есть и фавориты.
 Лидирующая платформа это ПК, на ней чаще всего лидируют для меня Action-RPG, Gacha-games, Симуляторы выживания.
 Так же есть большой опыт в использовании консоли Xbox360 на которой чаще всего проходились игры жанр слешер.
 
@@ -19,11 +21,31 @@
 - РХТУ им. Д.И.Менделеева с 2018 по 2020 – магистратура
 - РХТУ им. Д.И.Менделеева с 2020 по 2024 - аспирантура 
 
+## Опыт работы
+
+Middle Gamedev Developer, MASD (удаленно)
+> Январь 2022 - Июль 2022
+<br> 
+
+C++ Backend Developer, REDLLAMA (удаленно)
+> Февраль 2020 - Март 2022
+<br> 
+<a href="https://hh.ru/resume/ab575d49ff0b1fc2030039ed1f414f7835414c">
+<img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=hh&logoColor=white&label=HeadHunter" alt="hh Badge"/>
+</a>
+<br> 
+
+
 ## Мои работы
 
-* Симулятор бога лучной стрельбы с элементами охоты и выживания. [Steam-проекта](https://store.steampowered.com/app/1915880/Master_Wulder/)
+* Симулятор бога лучной стрельбы с элементами охоты и выживания.
 
+<a href="https://store.steampowered.com/app/1915880/Master_Wulder/">
+<img src="https://img.shields.io/badge/Steam-blue?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Badge"/>
+</a>
+<br>
 <iframe width="900" height="600" src="https://www.youtube.com/embed/mE9uWLYWd10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br>
 
 * Мультиплеерный шутер от первого лица с механиками королевской битвы и интеграцией блокчейн технологий.
@@ -38,7 +60,7 @@
 <br>
 
 * Симулятор обучающий работе с планетарной мельницей с интегрированной достоверной математической моделью  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JqXQreq_nKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="600" src="https://www.youtube.com/embed/JqXQreq_nKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 * Genetic god - Стратегия - симулятор бога с ботами, чей AI работает про принципу генетического кода, хранящего поведение, боты чей генотип позволяет выжить, дают потомство, другие вымирают. Обучаемые боты иллюстрируют принцип эволюции. – [тг-канал](https://t.me/geneticGod)
@@ -52,13 +74,13 @@
 <br>
 
 <div id="badges" style="align=center">
-  <a href="https://www.linkedin.com/mwlite/in/mikhail-babkin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://t.me/Shar170">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://www.youtube.com/user/mihanj170">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://t.me/Shar170">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://www.linkedin.com/mwlite/in/mikhail-babkin">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
